@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodBankApp</string>
+    <string name="title_activity_donner">DonnerActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_receiver">ReceiverActivity</string>
+</resources>
